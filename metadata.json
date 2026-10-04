@@ -1,0 +1,7 @@
+{
+  "name": "ChemLabs-AI Simulation Deck",
+  "description": "Cross-Industry Chemistry Simulation Deck & AutoCAD Blueprint Generator powered by Gemini chemical intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
